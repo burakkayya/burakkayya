@@ -4,6 +4,7 @@
 - 📫 How to reach me [LinkedIn @BurakKaya](https://www.linkedin.com/in/burak-kaya-ab4025148/) ...
 - -Languages- 
 - C, C++, C#..
+- ! My Ai Car Race game will be published soon !
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakkayya)](https://github.com/anuraghazra/github-readme-stats)
 
